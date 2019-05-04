@@ -11,3 +11,7 @@ def my_first_element(my_first_element)
   my_first_element[0]
   
 end
+
+def third_element 
+  
+end
