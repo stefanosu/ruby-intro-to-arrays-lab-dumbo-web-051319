@@ -8,7 +8,7 @@ end
 
 def my_first_element(my_first_element) 
   my_first_element = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
-  my_first_element[0]
+  my_first_element[1]
   
 end
 
@@ -16,3 +16,4 @@ def third_element(my_third_element)
   @taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
   my_third_element = @taylor_swift[2]
 end
+
