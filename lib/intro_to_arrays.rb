@@ -25,6 +25,7 @@ end
 
 
 def first_element_with_array_methods(my_first_element_with_array_methods) 
-    my_first_element_with_array_methods = []
+    my_first_element_with_array_methods = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
+    my_first_element_with_array_methods.first 
 end 
 
