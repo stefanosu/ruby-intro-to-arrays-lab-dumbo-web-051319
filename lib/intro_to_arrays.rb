@@ -8,5 +8,4 @@ end
 
 def my_first_element() 
  my_first_element = [1, 2, 3] 
- my_first_element[1] 
 end
