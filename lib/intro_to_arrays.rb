@@ -8,5 +8,6 @@ end
 
 def my_first_element(my_first_element) 
   my_first_element = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
-  my_first_element = @taylor_swift[0]
-  end
+  my_first_element[0]
+  
+end
