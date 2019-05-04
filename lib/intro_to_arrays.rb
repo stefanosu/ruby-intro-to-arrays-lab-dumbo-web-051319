@@ -25,6 +25,6 @@ end
 
 
 def first_element_with_array_methods(my_first_element_with_array_methods) 
-    
+    my_first_element_with_array_methods = []
 end 
 
