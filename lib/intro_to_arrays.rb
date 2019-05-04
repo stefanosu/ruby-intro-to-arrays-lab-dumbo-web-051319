@@ -34,4 +34,7 @@ def last_element_with_array_methods(my_last_element_with_array_methods)
     my_last_element_with_array_methods.last 
 end
 
+def length_of_array(my_length_of_array)
+  
+end 
 
