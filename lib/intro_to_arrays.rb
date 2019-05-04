@@ -19,7 +19,7 @@ end
 
 
 def last_element(my_last_element)
-  my_last_element = [1, 2 ,3]
+  my_last_element = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
   my_last_element[-1]
 end 
 
