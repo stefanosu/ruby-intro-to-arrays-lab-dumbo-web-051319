@@ -29,4 +29,6 @@ def first_element_with_array_methods(my_first_element_with_array_methods)
     my_first_element_with_array_methods.first 
 end 
 
-def last_element_with_array
+def last_element_with_array_methods(my_first_element_with_array_methods)
+  
+end
